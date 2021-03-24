@@ -1,0 +1,341 @@
+@media(max-width:1920px){
+    .fix-width {
+        margin: auto;
+        max-width: 100%;
+        width: 90%;
+    }
+    .header-part .header-menu .main-menu ul li {
+        padding: 31px 47px;
+    }
+    .b-text h4 {
+        font-size: 80px;
+        font-weight: 600;
+    }
+    .b-text p {
+        font-size: 60px;
+        font-weight: 600;
+    }
+    .banner-content {
+        padding: 300px 0;
+    }
+    .about-image img {
+        width: 65%;
+    }
+    .about-image {
+        width: 50%;
+    }
+    .about-text h1 {
+        font-size: 50px;
+    }
+    .about-text h2 {
+        font-size: 35px;
+    }
+    .about-text p {
+        font-size: 25px;
+        font-weight: 500;     
+    }
+    .design-icon i {
+        font-size: 52px;
+    }
+    .design-icon {
+        width: 110px;
+        height: 66px;
+        line-height: 96px;
+        border-radius: 28px 0;
+    }
+    .design-part p {
+        font-size: 21px;
+    }
+    .footer-left p {
+        font-size: 25px;
+    }
+    .footer-right i {
+        padding-left: 105px;
+        font-size: 40px;
+    }
+}
+@media(max-width:1650px){
+    .header-part .header-menu  {
+        padding-right: 4%;
+    }
+}
+@media(max-width:1550px){
+    .header-part .header-menu  {
+        padding-right: 9%;
+    }
+    .header-part .header-menu .main-menu ul li a {
+        font-size: 18px;
+    }
+    .b-text p {
+        font-size: 51px;
+    }
+    .design-icon i {
+        font-size: 40px;
+    }
+    .design-icon {
+        width: 95px;
+        line-height: 87px;
+    }
+    .b-text h4 {
+        font-size: 65px;
+        font-weight: 600;
+    }
+}
+@media(max-width:1430px){
+    .header-part .header-menu {
+        padding-right: 4%;
+    }
+    .header-part .header-menu .main-menu ul li {
+        padding: 31px 38px;
+    }
+    .b-text h4 {
+        font-size: 60px;
+    }
+    .b-text p {
+        font-size: 42px;
+    }
+    .about-text h1 {
+        font-size: 45px;
+    }
+    .about-text h2 {
+        font-size: 30px;
+    }
+    .about-text p {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .footer-left p {
+        font-size: 22px;
+    }
+    .footer-right i {
+        padding-left: 90px;
+        font-size: 26px;
+    }
+    .banner-content {
+        padding: 250px 0;
+    }  
+}
+@media(max-width:1430px){
+    .header-part .header-menu {
+        padding-right: 8%;
+    }
+    .b-text h4 {
+        font-size: 54px;
+    }
+    .b-text p {
+        font-size: 38px;
+    }
+    .design-icon {
+        width: 77px;
+        height: 59px;
+        line-height: 80px;
+        border-radius: 20px 0;
+    }
+    .design-part h2 {
+        padding: 16px 0;
+        font-size: 28px;
+    }
+    .design-part p {
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .footer-left p {
+        font-size: 18px;
+    }
+    .footer-right i {
+        padding-left: 65px;
+        font-size: 25px;
+    }
+    .header-part .header-menu {
+        padding-right: 5%;
+    }
+}
+@media(max-width:1230px){
+    .header-part .header-menu {
+        padding-right: 13%;
+    }
+    .about-text p {
+        font-size: 17px;
+        font-weight: 500;
+        line-height: 25px;
+    }
+    .footer-right i {
+        padding-left: 75px;
+        font-size: 25px;
+    }
+}
+@media(max-width:1150px){
+    .header-part .header-menu {
+        padding-right: 5%;
+    }
+    .header-part .header-menu .main-menu ul li {
+        padding: 31px 25px;
+    }
+}
+@media(max-width:1020px){
+    .header-part .header-menu {
+        padding-right: 10%;
+    }
+    .banner-content {
+        padding: 200px 0;
+    }
+    .b-text h4 {
+        font-size: 44px;
+    }
+    .b-text p {
+        font-size: 30px;
+    }
+    .about-text h1 {
+        font-size: 40px;
+    }
+    .about-text h2 {
+        font-size: 25px;
+    }
+    .about-text p {
+        font-size: 15px;
+    }
+}
+@media(max-width:950px){
+    .header-menu i {
+        display: block;
+        font-size: 30px;
+    }
+    .header-menu .main-menu{
+        display: none;
+    }
+    .main-menu{
+        display: none;
+    }
+    .header-menu i ul{
+        transition: 0.5s;
+    }
+    .header-menu i:hover ul{
+        opacity: 1;
+        visibility: visible;
+    }
+}
+@media(max-width:815px){
+    .b-text h4 {
+        font-size: 30px;
+    }
+    .b-text p {
+        font-size: 22px;
+    }
+    .banner-content {
+        padding: 175px 0;
+    }
+    .about-image {
+        width: 40%;
+        text-align: left;
+    }
+    .about-image img {
+        width: 80%;
+    }
+    .about-text {
+        width: 70%;
+    }
+    .about-text h1 {
+        font-size: 30px;
+        margin-top: 0;
+    }
+    .about-text h2 {
+        font-size: 22px;
+        margin-bottom: 20px;
+    }
+    .about-section {
+        margin-top: 66px;
+        margin-bottom: 40px;
+    }
+    .design-part {
+        width: 67%;
+        margin-bottom: 20px !important;
+        margin: auto;
+    }
+    .w-item {
+      display: block;
+    }
+    .web-section {
+        background-color: #fffaf0;
+        padding: 42px 0;
+    }
+    .footer-right i {
+        padding-left: 53px;
+        font-size: 18px;
+    }
+    .footer-left p {
+        font-size: 16px;
+    }
+    .header-part .header-logo h3 {
+        font-size: 50px;
+    }
+    .header-menu i ul {
+        top: 102%;
+    }
+}
+@media(max-width:600px){
+    .banner-content {
+        padding: 134px 0;
+    }
+    .b-text h4 {
+        font-size: 20px;
+    }
+    .b-text p {
+        font-size: 15px;
+    }
+    .design-part {
+        width: 80%;
+    }
+    .about-part {
+        display: block;
+    }
+    .about-image img {
+        width: 44%;
+    }
+    .about-image {
+        width: 100%;
+        text-align: center;
+    }
+    .about-text {
+        width: 80%;
+        margin: auto;
+        text-align: center;
+        padding-top: 20px;
+    }
+    .about-text h1 {
+        margin: 5px 0;
+    }
+    .footer-right i {
+        padding-left: 31px;
+    }
+}
+@media(max-width:460px){
+    .header-menu i {
+        margin-top: 21px;
+        right: -21px;
+    }
+    .header-part .header-logo h3 {
+        font-size: 35px;
+    }
+    .banner-content {
+        padding: 100px 0;
+    }
+    .about-section {
+        margin-top: 35px;
+        margin-bottom: 30px;
+    }
+    .about-text {
+        width: 95%;
+    }
+    .design-part {
+        width: 90%;
+        padding: 30px 26px;
+    }
+    .footer {
+        display: block;
+        text-align: center;
+    }
+    .footer-left p {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+}
